@@ -3,6 +3,7 @@ pandas
 textblob
 matplotlib
 numpy
+altair
 import streamlit as st
 import pandas as pd
 from textblob import TextBlob
